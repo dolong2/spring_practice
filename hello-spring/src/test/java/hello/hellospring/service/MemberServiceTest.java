@@ -1,4 +1,4 @@
-package hello.hellospring.service;
+/*package hello.hellospring.service;
 
 import hello.hellospring.domain.Member;
 import org.assertj.core.api.Assertions;
@@ -32,4 +32,4 @@ class MemberServiceTest {
     @Test
     void findOne() {
     }
-}
+}*/
