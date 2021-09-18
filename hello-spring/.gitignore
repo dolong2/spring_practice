@@ -1,3 +1,4 @@
+/src/main/repository/JdbcMemberRepository
 HELP.md
 .gradle
 build/
