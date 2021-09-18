@@ -1,4 +1,4 @@
-/src/main/repository/JdbcMemberRepository
+/src/main/java/hello/hellospring/repository/JdbcMemberRepository.java
 HELP.md
 .gradle
 build/
